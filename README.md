@@ -22,16 +22,8 @@
 
 ### 📊 GitHub Stats:
 
-<table style="border: none; padding: 0; margin: 0; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
