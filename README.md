@@ -22,12 +22,12 @@
 
 ### 📊 GitHub Stats:
 
-<table>
+<table style="border: 0; padding: 0; margin: 0;">
   <tr>
-    <td>
+    <td style="border: 0; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
-    <td>
+    <td style="border: 0; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
@@ -35,8 +35,8 @@
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahovic.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anelsahovic)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anel.sahovic.bsc@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sahovic.a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/anelsahovic)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:anel.sahovic.bsc@gmail.com)
 
 
