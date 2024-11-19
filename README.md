@@ -22,8 +22,10 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anelsahovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 
 
